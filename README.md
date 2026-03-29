@@ -34,8 +34,7 @@ During this project, I used a mix of platforms to complete different tasks:
  Canva to design the infographic  
  Google Forms to create a quiz  
 
- What I Learned
-
+Learning from this project-
 This project helped me in many ways. I learned how to build a digital profile, how to communicate professionally, and how to use online platforms more effectively. I also understood how important it is to stay safe online and be aware of cyber threats.
 
 

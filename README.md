@@ -39,7 +39,7 @@ This project helped me in many ways. I learned how to build a digital profile, h
 
 
  Google Form Link
- https://docs.google.com/forms/d/e/1FAIpQLScL4V9kSfnMkNm6hS8pEExJJhuoVPMJnvuVbKSCgU8Qvx_a_w/viewform?usp=dialog
+https://docs.google.com/forms/d/e/1FAIpQLScL4V9kSfnMkNm6hS8pEExJJhuoVPMJnvuVbKSCgU8Qvx_a_w/viewform?usp=sharing&ouid=103209728458764465023
 
 
 
